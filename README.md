@@ -50,3 +50,4 @@
     <li>Search for "Tailwind CSS IntelliSense".</li>
     <li>Click "Install".</li>
 </ol>
+
