@@ -1,6 +1,5 @@
 "use client"
 import fetchLeaderboard, { Analytics } from '@/actions/fetchLeaderboardData';
-import { StarIcon } from 'lucide-react';
 import Image from 'next/image';
 import { useState, useEffect } from 'react';
 import { ContributorsInsights, addContributorsInsightsInsights, formatSinceAndUntil, mapMembers } from '../utils/leaderboardFunctions';
